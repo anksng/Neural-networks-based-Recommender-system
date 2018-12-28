@@ -28,3 +28,9 @@ MovieLens : http://grouplens.org/datasets/movielens/20m/
 * Neural networks for recommendation using *embeddings* :
 
 ![alt text](png/2.png)
+
+
+# Further task
+* Include other features from users and movies
+* Update layers to genreralize for the new latent features added
+* Train, plot and compare RMSE
