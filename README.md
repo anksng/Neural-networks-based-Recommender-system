@@ -15,12 +15,16 @@ MovieLens : http://grouplens.org/datasets/movielens/20m/
   
   
 # Final model used:
+
 ![alt text](png/finalmodel.png)
 
 # Results : MSE
+
 * Matrix factorization using neural networks :
+
 ![alt text](png/1.png)
 
   
 * Neural networks for recommendation using *embeddings* :
+
 ![alt text](png/2.png)
